@@ -1,0 +1,3 @@
+- Sample Classes --> Contain 100 spatial classes that were used as sample for the experiment
+- GroundTruth_RevevantClasses --> The pairs of Relevant Classes after manual examination of whether they contain related entities
+- Results --> The Recall and Precision results after applying the matching algorithm
