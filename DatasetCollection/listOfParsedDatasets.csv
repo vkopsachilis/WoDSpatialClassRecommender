@@ -1,0 +1,620 @@
+datasource;status
+COLINDA - Conference Linked Data;HttpException: 400
+DrugBank;HttpException: 400
+aksw.org Research Group dataset;HttpException: 400
+eagle-i @ Vanderbilt University;HttpException: 400
+Biographical Directory of the United States Congress;HttpException: 403
+EUROVOC in SKOS;HttpException: 403
+British Museum Collection;HttpException: 404
+Passim;HttpException: 404
+Public Spending in Greece;HttpException: 404
+Fact Forge;HttpException: 404
+ProDom;HttpException: 404
+Europeana Linked Open Data;HttpException: 404
+School of Electronics and Computer Science, University of Southampton;HttpException: 404
+OSM Semantic Network;HttpException: 404
+SPARQL Endpoint Status;HttpException: 404
+notube;HttpException: 404
+KEGG Glycan;HttpException: 404
+HCLS Knowledge Base;HttpException: 404
+KEGG Reaction;HttpException: 404
+environment.data.gov.uk;HttpException: 404
+DBLP Bibliography Database in RDF (FU Berlin);HttpException: 404
+SmartLink: Linked Services Non-Functional Properties;HttpException: 404
+research.data.gov.uk;HttpException: 404
+photos;HttpException: 404
+patents.data.gov.uk;HttpException: 404
+lobid-organisations;HttpException: 404
+Copac: union catalogue of major University, Specialist, and National Libraries in the UK and Ireland;HttpException: 404
+WHO Global Health Observatory;HttpException: 404
+PubChem;HttpException: 404
+datos-artium-org;HttpException: 404
+BizkaiSense;HttpException: 404
+vulnerapedia;HttpException: 404
+The Cancer Genome Atlas;HttpException: 404
+Amsterdam Museum as Linked Open Data in the Europeana Data Model;HttpException: 404
+ALPINO RDF Treebank;HttpException: 404
+Leipzig Corpora Collection (LCC);HttpException: 404
+Aristotle University;HttpException: 404
+enaktingpsi;HttpException: 404
+National Library of Greece Authority Records;HttpException: 404
+EARTh;HttpException: 404
+Pfam;HttpException: 404
+ChEMBL-RDF (@ Uppsala University);HttpException: 404
+Nobel Prizes;HttpException: 404
+Deutsche Biographie;HttpException: 404
+Russian Universities Specialities;HttpException: 404
+Academic Bibliography data available from Acta Cryst E;HttpException: 404
+Linked Data Service der Universitätsbibliothek Mannheim;HttpException: 404
+Bio2RDF::INOH;HttpException: 404
+Germany - Bundesministerium der Finanzen - Budget;HttpException: 404
+gdlc;HttpException: 404
+xLiD-Lexica;HttpException: 404
+European Employment Services (EURES);HttpException: 404
+EURAXESS - Researchers in Motion;HttpException: 404
+mEducator: Linked Educational Resources;HttpException: 404
+Hedatuz;HttpException: 404
+LinkedStats;HttpException: 404
+CORE - Semantic Similarity of Open Access publications;HttpException: 404
+business.data.gov.uk;HttpException: 404
+The Drug Interaction Knowledge Base;HttpException: 404
+Sudoc bibliographic data;HttpException: 404
+Learning Analytics and Knowledge (LAK) Dataset;HttpException: 404
+Bio2RDF::neXtProt;HttpException: 404
+fun;HttpException: 404
+TheSoz Thesaurus for the Social Sciences (GESIS);HttpException: 404
+US Political Violence;HttpException: 404
+PDB;HttpException: 404
+Teseo;HttpException: 500
+Raphael Research Resource;HttpException: 500
+LODsyndesis Dataset;HttpException: 500
+Telegraphis Linked Data;HttpException: 500
+GovWILD - Government Web Integration for Linked Data;HttpException: 500
+USAGE review corpus;HttpException: 500
+Reactome RDF;HttpException: 500
+Dewey Decimal Classification (DDC);HttpException: 500
+LODAC BDLS;HttpException: 500
+Linked User Feedback;HttpException: 502
+Source Code Ecosystem Linked Data;HttpException: 502
+twc-opendap;HttpException: 502
+Community Research and Development Information Service (CORDIS);HttpException: 503
+DBTune.org John Peel sessions RDF server;HttpException: 503
+University of Bristol;HttpException: 503
+RÉPENER building energy;HttpException: 503
+USPTO Patent data;HttpException: 503
+Italian public schools (LinkedOpenData.it);HttpException: 503
+Bible Ontology;HttpException: 503
+DBTune.org/classical;HttpException: 503
+DURAARK - Linked Building Data;HttpException: 503
+ISTAT Immigration (LinkedOpenData.it);HttpException: 503
+Crystal Eye: Aggregated Crystallographic Data;HttpException: 503
+EuroSentiment;HttpException: 503
+DBTune.org Musicbrainz D2R Server;HttpException: 503
+Neurocommons text mining pilot;HttpException: 503
+SIDER: Side Effect Resource;HttpException: 503
+iServe: Linked Services Registry;HttpException: 503
+OpenLink Software LOD Cache;HttpException: 503
+Italian Museums;HttpException: 503
+STITCH: Chemical-Protein Interactions;HttpException: 503
+Accommodations in Piedmont (LinkedOpenData.it);HttpException: 503
+MediCare;HttpException: 503
+Linked Open Camera (LinkedOpenData.it);HttpException: 503
+Diseasome;HttpException: 503
+DBTune.org MySpace RDF Service;HttpException: 503
+Accommodations in Tuscany (LinkedOpenData.it);HttpException: 503
+intervalue;HttpException: 503
+Project Gutenberg in RDF (FU Berlin);HttpException: 503
+RxNorm;HttpException: 503
+DBTune.org Jamendo RDF Server;HttpException: 503
+LODUM;HttpException: 503
+Linked Open Commerce;HttpException: 503
+DailyMed;HttpException: 503
+Kallikratis municipalities;HttpException: 503
+Social Networks and Archival Context Fall 2011;HttpException: 503
+DBTune.org Magnatune RDF server;HttpException: 503
+Eurostat in RDF (FU Berlin);HttpException: 503
+Social Networks and Archival Context Fall 2011;HttpException: 503
+Postal codes Italy (LinkedOpenData.it);HttpException: 503
+Linked Open Senate (linkedopendata.it);HttpException: 503
+World Factbook (FU Berlin);HttpException: 503
+EventMedia;HttpException: 503
+COD inventory;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+Bio2RDF::Sgd;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+SITC-V4;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+TERENCE Reading Comprehension Dataset;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+LemonWordNet;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+ISIC V4;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+Mapa de Referencia para Bogotá, Distrito Capital;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+Gipuzkoa Demografia;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+DBpedia in Basque;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+Linked Sensor Data (Kno.e.sis);HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+Linking Italian University Statistics Project;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+BibBase;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+myExperiment;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+Academic Offer of UNL;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+OpenTox;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+CODE Endpoint;HttpException: java.net.ConnectException: Connection refused: connect: Unexpected error making the query: java.net.ConnectException: Connection refused: connect
+PROD - JISC Project Directory in RDF;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+ECLAP;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Eventseer;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+N-Lex as Linked Data;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+RDFLicense;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+European Patent Office (EPO);HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Linked Open Data of Ecology;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Australian Climate Observations Reference Network - Surface Air Temperature Dataset;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Rechtspraak.nl;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Yovisto - academic video search;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+EUR-Lex as Linked Data;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+JITA Classification System of Library and Information Science;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Korean Traditional Recipes;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+TIP;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Santillana Guide Dataset;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+crowdsourcing-fb;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+aliada-scanbit-net;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+AGRIS;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+AGROVOC;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+CORS Check - HTTP Header Logs for Linked Open Data;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+HeBIS - Bibliographic Resources of the Library Union Catalogues of Hessen and parts of the Rhineland Palatinate;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Universitat Pompeu Fabra - linked data;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+BabelNet;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+EuroSentiment;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+PreLex;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Taiwan geographic names;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+EU: fintrans.publicdata.eu;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+CPV  2003;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Open Courseware Consortium metadata in RDF;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+xxxxx;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Slidewiki (RDF/SPARQL);HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Semantic Universe Data;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+FORGE Course information;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Open Data @ Tor Vergata;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+UNISTAT-KIS in RDF (Key Information Set - UK Universities);HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Yale Senselab;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+University of Huddersfield -- Circulation and Recommendation Data;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Uberblic.org;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+OUNL DSpace in RDF;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Ege University Linked Open Data;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+INERTIA (INERTIA Energy Consumption Example Linked Data);HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+UNODC - Statistics on criminal justice;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+cablegate;HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+EU Agencies and decentralized bodies (Agencies);HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+UNISTAT-KIS 2011/2012 in RDF (Key Information Set - UK Universities);HttpException: java.net.ConnectException: Connection timed out: connect: Unexpected error making the query: java.net.ConnectException: Connection timed out: connect
+Global Change Information System;HttpException: java.net.SocketException: Connection reset: Unexpected error making the query: java.net.SocketException: Connection reset
+Integrated Human Geography Service for LOD by National Geographic Information Institute, Korea;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+ichoose;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+USPTO Patent data;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+BundestagNebeneinkuenfte;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Mathematics Subject Classification;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Gene Expression Atlas RDF;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Instance Hub (all);HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Catalogus Professorum Lipsiensis;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Transcription profiling of rat bladder after inoculation with bladder cancer cells;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+provenanceweb;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Rijksmuseum Collection Data;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+wiktionary.dbpedia.org;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+European Commission Competition data set (FU Berlin);HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+HealthData.gov Platform (HDP) on the Semantic Web;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+IEEE VIS Source Data;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+IEEE VIS Source Data;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+SentimentWortschatz;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+lofd;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Tourpedia;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+LIBRIS;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Ocean Drilling - Janus Age Models;HttpException: java.net.SocketTimeoutException: Read timed out: Unexpected error making the query: java.net.SocketTimeoutException: Read timed out
+Tesauro materias BUPM;HttpException: java.net.UnknownHostException: academia6.poolparty.biz: Unexpected error making the query: java.net.UnknownHostException: academia6.poolparty.biz
+TCGA Roadmap;HttpException: java.net.UnknownHostException: agalpha.mathbiol.org: Unexpected error making the query: java.net.UnknownHostException: agalpha.mathbiol.org
+AgriNepalData;HttpException: java.net.UnknownHostException: agrinepaldata.com: Unexpected error making the query: java.net.UnknownHostException: agrinepaldata.com
+NTNU special collections;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Norsk inndeling av vitenskapsdisipliner;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Schemapedia: RDF schema compendium;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Standard Eurobarometer;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+BBC Programmes;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+LCSubjects.org Library of Congress Subject Headings;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+EU Who Is Who;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Climb Dataincubator;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Airport data from Our Airports published as RDF;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Mass Observation Archive catalogue;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+The London Gazette - Gazettes Data;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+English Language Books listed in Printed Book Auction Catalogues from 17th Century Holland;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+ProductDB;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Moseley Folk Festival Data;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Open Library data mirror in the Talis Platform;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+EUMIDA as Linked Data;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Metoffice Weather Forecasts;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Scottish Mountaineering Council Journals Issues 1-36;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+European Election Results;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Edinburgh University Theatre Company Productions;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+EU Parliament Media Library;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Ordnance Survey Linked Data;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Data Incubator: MusicBrainz;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Traffic Scotland;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+The View From;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Pokedex data in RDF;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+LinkedLCCN;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+BBC Wildlife Finder;HttpException: java.net.UnknownHostException: api.talis.com: Unexpected error making the query: java.net.UnknownHostException: api.talis.com
+Bio2RDF::Chembl;HttpException: java.net.UnknownHostException: chembl.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: chembl.bio2rdf.org
+KEGG Compound;HttpException: java.net.UnknownHostException: cpd.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: cpd.bio2rdf.org
+GEneral Multilingual Environmental Thesaurus;HttpException: java.net.UnknownHostException: cr3.eionet.europa.eu: Unexpected error making the query: java.net.UnknownHostException: cr3.eionet.europa.eu
+Statistics on Fatal Traffic Accidents in greek roads;HttpException: java.net.UnknownHostException: crashmap.okfn.gr: Unexpected error making the query: java.net.UnknownHostException: crashmap.okfn.gr
+DataGovIE - Irish Government Data;HttpException: java.net.UnknownHostException: data-gov.ie: Unexpected error making the query: java.net.UnknownHostException: data-gov.ie
+Noticias Universia;HttpException: java.net.UnknownHostException: data.noticias.universia.net: Unexpected error making the query: java.net.UnknownHostException: data.noticias.universia.net
+KEGG Drug;HttpException: java.net.UnknownHostException: dr.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: dr.bio2rdf.org
+European Central Bank Statistics (PublicData.eu);HttpException: java.net.UnknownHostException: ecb.publicdata.eu: Unexpected error making the query: java.net.UnknownHostException: ecb.publicdata.eu
+Semantic Profiling Network;HttpException: java.net.UnknownHostException: el-devtc01.tugraz.at: Unexpected error making the query: java.net.UnknownHostException: el-devtc01.tugraz.at
+My Family Lineage;HttpException: java.net.UnknownHostException: futurewavehosting.com: Unexpected error making the query: java.net.UnknownHostException: futurewavehosting.com
+Bio2RDF::GenBank;HttpException: java.net.UnknownHostException: genbank.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: genbank.bio2rdf.org
+OpenUpLabs COINS;HttpException: java.net.UnknownHostException: gov.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: gov.tso.co.uk
+OpenUpLabs Transport;HttpException: java.net.UnknownHostException: gov.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: gov.tso.co.uk
+OpenUpLabs DCLG;HttpException: java.net.UnknownHostException: gov.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: gov.tso.co.uk
+OpenUpLabs Legislation;HttpException: java.net.UnknownHostException: gov.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: gov.tso.co.uk
+Sensores de IntelliDomo;HttpException: java.net.UnknownHostException: http: Unexpected error making the query: java.net.UnknownHostException: http
+Fatal Traffic Accidents in greek roads;HttpException: java.net.UnknownHostException: http: Unexpected error making the query: java.net.UnknownHostException: http
+Bio2RDF::Iproclass;HttpException: java.net.UnknownHostException: iproclass.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: iproclass.bio2rdf.org
+LATC Linksets;HttpException: java.net.UnknownHostException: kwijibo.talis.com: Unexpected error making the query: java.net.UnknownHostException: kwijibo.talis.com
+Bio2RDF::Linkedspl;HttpException: java.net.UnknownHostException: linkedspl.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: linkedspl.bio2rdf.org
+LODRussia Nano;HttpException: java.net.UnknownHostException: lod.my-eventos.com: Unexpected error making the query: java.net.UnknownHostException: lod.my-eventos.com
+TaxonConcept Knowledge Base;HttpException: java.net.UnknownHostException: lsd.taxonconcept.org: Unexpected error making the query: java.net.UnknownHostException: lsd.taxonconcept.org
+Kjente bygninger i Oslo;HttpException: java.net.UnknownHostException: opendata.computas.no: Unexpected error making the query: java.net.UnknownHostException: opendata.computas.no
+Legislation API;HttpException: java.net.UnknownHostException: openuplabs.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: openuplabs.tso.co.uk
+OpenUpLabs Education;HttpException: java.net.UnknownHostException: openuplabs.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: openuplabs.tso.co.uk
+Legislation API;HttpException: java.net.UnknownHostException: openuplabs.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: openuplabs.tso.co.uk
+Combined Online Information System;HttpException: java.net.UnknownHostException: openuplabs.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: openuplabs.tso.co.uk
+OpenUpLabs Geographic;HttpException: java.net.UnknownHostException: os.services.tso.co.uk: Unexpected error making the query: java.net.UnknownHostException: os.services.tso.co.uk
+Bio2RDF::Pathwaycommons;HttpException: java.net.UnknownHostException: pathwaycommons.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: pathwaycommons.bio2rdf.org
+Bio2RDF::Reactome;HttpException: java.net.UnknownHostException: reactome.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: reactome.bio2rdf.org
+Catálogo de Datos de Asturias;HttpException: java.net.UnknownHostException: risp.asturias.es: Unexpected error making the query: java.net.UnknownHostException: risp.asturias.es
+INSEMTIVES;HttpException: java.net.UnknownHostException: services.insemtives.eu: Unexpected error making the query: java.net.UnknownHostException: services.insemtives.eu
+Linked Food;HttpException: java.net.UnknownHostException: sparql.linkedfood.org: Unexpected error making the query: java.net.UnknownHostException: sparql.linkedfood.org
+Traditional Korean Medicine Ontology;HttpException: java.net.UnknownHostException: tkm.kiom.re.kr: Unexpected error making the query: java.net.UnknownHostException: tkm.kiom.re.kr
+SPQR;HttpException: java.net.UnknownHostException: triples.cerch.kcl.ac.uk: Unexpected error making the query: java.net.UnknownHostException: triples.cerch.kcl.ac.uk
+Twarql;HttpException: java.net.UnknownHostException: twarql.org: Unexpected error making the query: java.net.UnknownHostException: twarql.org
+UniSTS;HttpException: java.net.UnknownHostException: unists.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: unists.bio2rdf.org
+Bio2RDF::Wikipathways;HttpException: java.net.UnknownHostException: wikipathways.bio2rdf.org: Unexpected error making the query: java.net.UnknownHostException: wikipathways.bio2rdf.org
+Flyted;HttpException: java.net.UnknownHostException: www.open-biomed.org.uk: Unexpected error making the query: java.net.UnknownHostException: www.open-biomed.org.uk
+flyatlas;HttpException: java.net.UnknownHostException: www.open-biomed.org.uk: Unexpected error making the query: java.net.UnknownHostException: www.open-biomed.org.uk
+TCMGeneDIT Dataset;HttpException: java.net.UnknownHostException: www.open-biomed.org.uk: Unexpected error making the query: java.net.UnknownHostException: www.open-biomed.org.uk
+Bdgp;HttpException: java.net.UnknownHostException: www.open-biomed.org.uk: Unexpected error making the query: java.net.UnknownHostException: www.open-biomed.org.uk
+Flybase;HttpException: java.net.UnknownHostException: www.open-biomed.org.uk: Unexpected error making the query: java.net.UnknownHostException: www.open-biomed.org.uk
+Legislation SPARQL API;HttpException: org.apache.http.client.ClientProtocolException: Unexpected error making the query: org.apache.http.client.ClientProtocolException
+ThIST;no spatial
+Bio2RDF::Mgi;no spatial
+Bio2RDF::Hgnc;no spatial
+Bio2RDF::Dbsnp;no spatial
+IATI as Linked Data;no spatial
+BioModels RDF;no spatial
+Bio2RDF::Orphanet;no spatial
+Bio2RDF::Gendr;no spatial
+BioSamples RDF;no spatial
+B3Kat - Library Union Catalogues of Bavaria, Berlin and Brandenburg;no spatial
+Bio2RDF::Irefindex;no spatial
+Bio2RDF::Ctd;no spatial
+Bio2RDF::Affymetrix;no spatial
+Bio2RDF::Ncbigene;no spatial
+Federal Reserve Board (FRB) Linked Data;no spatial
+Bio2RDF::Bioportal;no spatial
+Bio2RDF::Homologene;no spatial
+Bank for International Settlements (BIS) Linked Data;no spatial
+Australian Bureau of Statistics (ABS) Linked Data;no spatial
+Bio2RDF::Biomodels;no spatial
+Bio2RDF::Wormbase;no spatial
+Bio2RDF::Sider;no spatial
+Bio2RDF::Pubmed;no spatial
+Bio2RDF::Clinicaltrials;no spatial
+Bio2RDF::Genage;no spatial
+ChEMBL RDF;no spatial
+Identifiers.org;no spatial
+Bio2RDF::Omim;no spatial
+DisGeNET;no spatial
+Bio2RDF::Drugbank;no spatial
+Bio2RDF::Lsr;no spatial
+Bio2RDF::Interpro;no spatial
+Resilient Computing Courseware (RKBExplorer);no spatial
+UNESCO Institute for Statistics (UIS) Linked Data;no spatial
+MetaLex Document Server;no spatial
+UniProt databases;no spatial
+eagle-i@ University of Puerto Rico - Medical Sciences Campus;no spatial
+Budapest University of Technology and Economics (RKBExplorer);no spatial
+ASN:US;no spatial
+RISKS Digest (RKBExplorer);no spatial
+Web Science Conference (RKBExplorer);no spatial
+European Central Bank (ECB) Linked Data;no spatial
+eagle-i @ Montana State University;no spatial
+reference.data.gov.uk;no spatial
+eagle-i @ University of Alaska Fairbanks;no spatial
+Universität Ulm (RKBExplorer);no spatial
+International Monetary Fund (IMF) Linked Data;no spatial
+eagle-i @ Dartmouth College;no spatial
+Università di Pisa (RKBExplorer);no spatial
+LinkedSpending: OpenSpending becomes Linked Open Data;no spatial
+Open Archive Initiative Harvest over OAI-PMH (RKBExplorer);no spatial
+Bundesamt für Statistik (BFS) - Swiss Federal Statistical Office (FSO) Linked Data;no spatial
+Lista de  Encabezamientos de Materia as Linked Open Data;no spatial
+The Eurostat Linked Data;no spatial
+dbnary;no spatial
+eagle-i @ Xavier University of Louisiana;no spatial
+eagle-i @ Florida Agricultural and Mechanical University;no spatial
+Open Data from the Italian National Research Council;no spatial
+ICANE;no spatial
+UNESCO Thesaurus;no spatial
+SADI Semantic Web Services framework registry;no spatial
+eagle-i @ University of Texas at El Paso;no spatial
+National Digital Data Archive of Hungary (partial);no spatial
+Transparency International Linked Data;no spatial
+Orthology and Diseases Information - OGO;no spatial
+rkb-explorer-foreign;no spatial
+DBLP in RDF (L3S);no spatial
+datos.bne.es;no spatial
+A Short Biographical Dictionary of English Literature (RKBExplorer);no spatial
+eagle-i @ Universidad Central del Caribe;no spatial
+Université Paul Sabatier - Toulouse 3 (RKB Explorer);no spatial
+UN/LOCODE (RKBExplorer);no spatial
+ePrints Harvest (RKBExplorer);no spatial
+Association for Computing Machinery (ACM) (RKBExplorer);no spatial
+Linked Clean Energy Data (reegle.info);no spatial
+Organisation for Economic Co-operation and Development (OECD) Linked Data;no spatial
+epsrc;no spatial
+OpenEI - Open Energy Info;no spatial
+WordNet (RKBExplorer);no spatial
+Nobel Prizes;no spatial
+Technische Universität Darmstadt (RKBExplorer);no spatial
+Fundação da Faculdade de Ciencas da Universidade de Lisboa (RKBExplorer);no spatial
+digitaleconomy;no spatial
+Archives Hub Linked Data;no spatial
+STW Thesaurus for Economics;no spatial
+Deep Blue (RKBExplorer);no spatial
+IEEE Papers (RKBExplorer);no spatial
+eagle-i @ Charles R. Drew University;no spatial
+ReSIST MSc in Resilient Computing Curriculum (RKBExplorer);no spatial
+eagle-i @ Morehouse School of Medicine;no spatial
+Research Assessment Exercise 2001 (RKBExplorer);no spatial
+National Science Foundation (RKBExplorer);no spatial
+eagle-i @ Harvard University;no spatial
+CulturaLinkedData;no spatial
+SymbolicData;no spatial
+Hungarian National Library (NSZL) catalog;no spatial
+AragoDBpedia;no spatial
+DBLP Computer Science Bibliography (RKBExplorer);no spatial
+Ordnance Survey (RKBExplorer);no spatial
+eagle-i @ University of Hawai’i at Mānoa;no spatial
+IBM Research GmbH (RKBExplorer);no spatial
+statistics.data.gov.uk;no spatial
+CiteSeer (Research Index) (RKBExplorer);no spatial
+Università degli studi di Roma "La Sapienza" (RKBExplorer);no spatial
+Diverse Italian ReSIST Partner Institutions (RKBExplorer);no spatial
+Geological Survey of Austria (GBA) - Thesaurus;no spatial
+ReSIST Resilience Mechanisms (RKBExplorer.com);no spatial
+ReSIST Project Wiki (RKBExplorer);no spatial
+German labor law thesaurus;no spatial
+eagle-i @ University of Texas at San Antonio;no spatial
+roni;no spatial
+Allie Abbreviation And Long Form Database in Life Science;no spatial
+Geological Survey of Austria (GBA) - Thesaurus;no spatial
+eagle-i @ Jackson State University;no spatial
+ePrints3 Institutional Archive Collection (RKBExplorer);no spatial
+Linked Movie DataBase;no spatial
+data.open.ac.uk, Linked Data from the Open University;no spatial
+crm;no spatial
+Community R&D Information Service (CORDIS) (RKBExplorer);no spatial
+Educational programs - SISVU;no spatial
+Institut Eurécom (RKBExplorer);no spatial
+Geological Survey of Austria (GBA) - Thesaurus;no spatial
+eagle-i @ Ponce School of Medicine;no spatial
+University of Newcastle upon Tyne (RKBExplorer);no spatial
+Food and Agriculture Organization of the United Nations (FAO) Linked Data;no spatial
+School of Electronics and Computer Science, University of Southampton (RKBExplorer);no spatial
+KEGG Pathway;no spatial
+data-hnm-hu - Hungarian National Museum Datasets;no spatial
+morelab;no spatial
+UniProt;no spatial
+DEPLOY (RKBExplorer);no spatial
+ERA - Australian Research Council publication ratings (RKBExplorer);no spatial
+UK JISC (RKBExplorer);no spatial
+Organic Edunet Linked Open Data;no spatial
+Vytautas Magnus University, Kaunas (RKBExplorer);no spatial
+eagle-i @ Oregon Health and Science University;no spatial
+UNESCO Thesaurus;no spatial
+WebIsALOD;no spatial
+IMGpedia;no spatial
+Thesaurus BNCF;no spatial
+GovAgriBus Denmark;no spatial
+FOODpedia - Linked Data Dataset about Food Products and Ingredients;no spatial
+Archivi ISMA;no spatial
+The CIARD RING;no spatial
+Greek Wordnet;no spatial
+France Telecom Recherche et Développement (RKBExplorer);no spatial
+LAAS-CNRS (RKBExplorer);no spatial
+Bio2RDF::GOA;no spatial
+eagle-i @ Texas Southern University;no spatial
+AGROVOC;no spatial
+MORElab;no spatial
+LDQM - Accessibility of DBpedia resources;no spatial
+scholarlydata;no spatial
+PreMOn (Predicate Model for Ontologies);no spatial
+LODStats;no spatial
+BabelNet;no spatial
+ELTE Digital Institutional Repository (EDIT);no spatial
+OntoBeef Domain;no spatial
+RISM Authority data;no spatial
+English Heritage Periods List;no spatial
+AGRIS;no spatial
+LinkedDrugs: Linked Drug Product Data on a Global Scale;no spatial
+LinkedUp Catalogue of Educational Datasets;no spatial
+Energy efficiency assessments and improvements;no spatial
+PanLex;no spatial
+Wings workflow provenance dataset;no spatial
+TED Talks;no spatial
+Library of Evosmos Bibliographic Data;no spatial
+J-GLOBAL knowledge;no spatial
+WikiPathways;no spatial
+European Television Heritage;no spatial
+eagle-i @ Tuskegee University;no spatial
+eagle-i @ Meharry Medical College;no spatial
+eagle-i @ Hunter College;no spatial
+eagle-i @ Howard University;no spatial
+eagle-i @ The City College of New York;no spatial
+eagle-i @ Clark Atlanta University;no spatial
+Geological Institute (JCC) — thesaurus;no spatial
+JISC Open Bibliography British National Bibliography dataset;org.apache.jena.atlas.json.JsonParseException: Illegal: [STRING2:boolean]
+Linked Life Data;org.apache.jena.atlas.json.JsonParseException: Not a JSON object START: [LT]
+The Getty Thesaurus of Geographic Names;org.apache.jena.atlas.json.JsonParseException: Not a JSON object START: [LT]
+Kidney and Urinary Pathway Knowledge Base;org.apache.jena.atlas.json.JsonParseException: Not a JSON object START: [null]
+Foodista;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Open Discovery Space (ODS);org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Semantic CrunchBase;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Federal Reserve Economic Data RDF;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Linked TCGA;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Procomún SPARQL;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Pali English Lexicon;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Invitations to Tender and Contracts Oct-Dec 2014;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+HM Land Registry Price Paid Data;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+AUEB Linked Open Data;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Data catalogue;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Entities around the Basque language;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+SALDO-RDF;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Nature Publishing Group - ALL;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+NERC Vocabulary Server 2.0;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+semantic-web-journal;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Organic Edunet Linked Open Data;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Public Record Office Victoria Semantic Wiki;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Plant;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+ARIADNE;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Euskal Legebiltzarrean ordezkapena duten Alderdi politikoak;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+English Heritage Places;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+English Index of Multiple Deprivation Ranking 2010;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Public Library of Veroia;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Data.gov;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Sanskrit English Lexicon;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Rådata nå!;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Prelinger Archives;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+LinkedCT;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Foodista;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Zhishi.me;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Geographic information at the Biblioteca Virtual Miguel de Cervantes;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Irstea Weather Dataset of the Montoldre Experimental Farm;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Geography;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Apertium RDF;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Revyu.com - Review Anything;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+MusicNet Codex;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Openflights Routes;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Research for Development - R4D open data;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+nomisma;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Salzburgerland Tourismus;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+NASA Space Flight & Astronaut data in RDF;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Renewable Energy Generators;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Yahoo Geoplanet RDF;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Auckland Museum Collections Online;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+Bricklink;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+ECCO-TCP Eighteenth Century Texts Linked Data;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+UN Hazardous Materials Numbers;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/html which is not currently supported for ASK queries
+KDATA;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/plain which is not currently supported for ASK queries
+kdata;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/plain which is not currently supported for ASK queries
+National Diet Library of Japan subject headings;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/plain which is not currently supported for ASK queries
+Linked Open Vocabularies (LOV);org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/plain which is not currently supported for ASK queries
+Web NDL Authorities - National Diet Library of Japan;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/plain which is not currently supported for ASK queries
+firmao;org.apache.jena.query.QueryException: Endpoint returned Content-Type: text/turtle which is not currently supported for ASK queries
+Transcription profiling of mouse cell types and tissues (GNF/Novartis);org.apache.jena.riot.RiotException: Invalid request URI
+JITA Classification System of Library and Information Science;org.apache.jena.riot.RiotException: Invalid request URI
+Street level crime reports for England and Wales;org.apache.jena.sparql.resultset.ResultSetException: Failed when initializing the StAX parsing engine
+SEEK-AT-WD ICT tools for education - Web-Share;org.apache.jena.sparql.resultset.ResultSetException: Failed when initializing the StAX parsing engine
+Thesaurus BNCF;org.apache.jena.sparql.resultset.ResultSetException: Not a boolean result
+AMOn+: Cultural Variations in Interpersonal Communication Ontology;org.apache.jena.sparql.resultset.ResultSetException: Not a boolean result
+Korea Intellectual Propert Office(KIPO);org.apache.jena.sparql.resultset.ResultSetException: One or more of the required keys [head, results] was not found
+LOD-a-lot;org.apache.jena.sparql.resultset.ResultSetException: One or more of the required keys [head, results] was not found
+Lichfield District Council - Spending;org.apache.jena.sparql.resultset.ResultSetException: One or more of the required keys [head, results] was not found
+Calendar;org.apache.jena.sparql.resultset.ResultSetException: One or more of the required keys [head, results] was not found
+Comprehensive Knowledge Archive Network;spatial
+DBpedia-Live;spatial
+Terminesp Linked Data;spatial
+DBpedia in Portuguese;spatial
+Linked Taiwan Geo-Names;spatial
+Courts thesaurus;spatial
+World Bank Linked Data;spatial
+Spanish Linguistic Datasets;spatial
+Alpine Ski Racers of Austria;spatial
+Korean Institute of Science Technology and Information (RKBExplorer);spatial
+GeoLinkedData;spatial
+Norwegian geo-divisions;spatial
+Events calendar for the University (University of Oxford);spatial
+Alexandria Digital Library (ADL) Gazetteer;spatial
+COLINDA - Conference Linked Data;spatial
+Linked Open Aalto Data Service;spatial
+MONDIS;spatial
+webconf;spatial
+Isidore;spatial
+CRTM;spatial
+Lotico;spatial
+DBpedia in German;spatial
+Universidad Técnica Particular de Loja - Linked Open Data;spatial
+DBpedia in Basque;spatial
+Open Data Thesaurus;spatial
+Environment Agency Bathing Water Quality;spatial
+Phonetics Information Base and Lexicon (PHOIBLE);spatial
+Serendipity;spatial
+LinkLion - A Link Repository for the Web of Data;spatial
+World War 1 as Linked Open Data;spatial
+ISPRA - The Italian Data Buoy Network (RON);spatial
+Verrijkt Koninkrijk;spatial
+EEA Vocabularies;spatial
+Dutch Ships and Sailors;spatial
+transport.data.gov.uk;spatial
+Enipedia - Energy Industry Data;spatial
+data-szepmuveszeti-hu;spatial
+Lotico;spatial
+Geological Survey of Austria (GBA) - Thesaurus;spatial
+OxPoints (University of Oxford);spatial
+linkedarc.net archaeological datasets;spatial
+Open Data of Ecuador;spatial
+Dutch Ships and Sailors;spatial
+Indicators Academic Process 2017;spatial
+Datos.bcn.cl;spatial
+Shoah victims’ names;spatial
+DBpedia in Spanish;spatial
+Linked Logainm;spatial
+education.data.gov.uk;spatial
+Social Semantic Web Thesaurus;spatial
+Hellenic Fire Brigade;spatial
+URIBurner;spatial
+Apertium EN-ES;spatial
+DBpedia in Japanese;spatial
+Linked Crowdsourced Data;spatial
+Semantic Web Dog Food Corpus;spatial
+houses of culture Caceres;spatial
+DATATURCYL - LOD for tourists in Castilla y León (Spain);spatial
+DBpedia in Greek;spatial
+Perfil del Contratante Cáceres;spatial
+CTIC Public Dataset Catalogs;spatial
+EIONET RDF Data;spatial
+BPR – Bibliography of the Italian Parliament and electoral studies;spatial
+DBpedia;spatial
+LinkedGeoData;spatial
+Imagesnippets Image Descriptions;spatial
+Apps using our data (University of Southampton);spatial
+FarolApp Streetlight Dataset;spatial
+DBpedia Wikidata;spatial
+AEMET metereological dataset;spatial
+Influence Tracker Dataset;spatial
+Muninn World War I;spatial
+Medicinal products marketed in Czech Republic;spatial
+Hellenic Police;spatial
+Geographic Names Information System (GNIS);spatial
+DBpedia in Dutch;spatial
+DBpedia in French;spatial
+ASCDC_LOD;spatial
+dotAC (RKBExplorer);spatial
+Test Site, LOD Lab 317;spatial
+Open Government data Brasil;spatial
+OpenMobileNetwork;spatial
+DBpedia Commons;spatial
