@@ -6,5 +6,5 @@ This repo contains files related to the WoDSpatialClassRecommender application. 
 - Research Papers: Papers that describe analytically the implemented methodology
 
 
-The Online tool* is available at http://geo-aegean.aegean.gr:8080/WoDSpatialClassRecommender/
-* Development Mode 
+An Online tool in Development Mode is available at http://geo-aegean.aegean.gr:8080/WoDSpatialClassRecommender/
+ 
