@@ -1,0 +1,437 @@
+Source Class,Source Dataset,Target Class,Target Dataset
+http://dbpedia.org/class/yago/PopulatedPlacesInTheLesbosPrefecture,DBpedia in Greek,http://linkedgeodata.org/ontology/Town,LinkLion - A Link Repository for the Web of Data
+http://dbpedia.org/class/yago/PopulatedPlacesInTheLesbosPrefecture,DBpedia in Greek,http://dbpedia.org/ontology/City,DBpedia in French
+http://dbpedia.org/class/yago/PopulatedPlacesInTheLesbosPrefecture,DBpedia in Greek,http://www.wikidata.org/entity/Q515,DBpedia in French
+http://dbpedia.org/class/yago/PopulatedPlacesInTheLesbosPrefecture,DBpedia in Greek,http://schema.org/City,DBpedia in French
+http://dbpedia.org/class/yago/PopulatedPlacesInTheLesbosPrefecture,DBpedia in Greek,http://www.wikidata.org/entity/Q515,DBpedia in French
+http://dbpedia.org/class/yago/PopulatedPlacesInTheLesbosPrefecture,DBpedia in Greek,http://schema.org/City,DBpedia in French
+http://dbpedia.org/class/yago/PopulatedPlacesInTheLesbosPrefecture,DBpedia in Greek,http://dbpedia.org/ontology/City,DBpedia in French
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/class/yago/Railing104047401,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://linkedgeodata.org/ontology/TramStop,LinkedGeoData
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/ontology/MeanOfTransportation,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://schema.org/Product,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/class/yago/Conveyance103100490,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/class/yago/Conveyance103100490,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/class/yago/Railing104047401,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#DesignedArtifact,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://adl-gazetteer.geog.ucsb.edu/ontology/museum_building,Alexandria Digital Library (ADL) Gazetteer
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/class/yago/Vehicle104524313,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/class/yago/Vehicle104524313,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://schema.org/Product,DBpedia
+http://dbpedia.org/ontology/Locomotive,DBpedia Wikidata,http://dbpedia.org/ontology/MeanOfTransportation,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/Building,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2004/02/skos/core#Concept,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/Building,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/Church,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2004/02/skos/core#Concept,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.wikidata.org/entity/Q1370598,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.geonames.org/ontology#Feature,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2004/02/skos/core#Concept,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2004/02/skos/core#Concept,Verrijkt Koninkrijk
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2000/01/rdf-schema#Resource,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.wikidata.org/entity/Q1370598,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/Cathedral102984061,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/Diocese108550966,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/Diocese,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.geonames.org/ontology#S,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/Cathedral102984061,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/Church,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.geonames.org/ontology#S,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/WikicatHallChurches,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ClericalAdministrativeRegion,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.wikidata.org/entity/Q1370598,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2004/02/skos/core#Concept,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ClericalAdministrativeRegion,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/WikicatHallChurches,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/WikicatLutheranChurchBuildingsConvertedFromRomanCatholicism,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/WikicatLutheranChurchBuildingsConvertedFromRomanCatholicism,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/Jurisdiction108590369,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/Diocese,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2000/01/rdf-schema#Resource,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.wikidata.org/entity/Q1370598,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.geonames.org/ontology#Feature,Verrijkt Koninkrijk
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/Jurisdiction108590369,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/class/yago/Diocese108550966,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.geonames.org/ontology#S,Verrijkt Koninkrijk
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.geonames.org/ontology#Feature,Dutch Ships and Sailors
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ArchitecturalStructure,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ArchitecturalStructure,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.w3.org/2000/01/rdf-schema#Resource,Verrijkt Koninkrijk
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.wikidata.org/entity/Q41176,DBpedia in French
+http://dbpedia.org/ontology/Organ,DBpedia Wikidata,http://www.wikidata.org/entity/Q41176,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/MusicSchool108283649,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://www.wikidata.org/entity/Q1370598,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatSchoolsWithCombinedCadetForces,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedInThe15thCentury,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://umbel.org/umbel/rc/EducationalOrganization,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Palace103878066,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/MusicSchool108283649,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatPreparatorySchoolsInLondon,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/PreparatorySchool108409969,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatFormerBuildingsAndStructuresInTheCityOfWestminster,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatFormerBuildingsAndStructuresInTheCityOfWestminster,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatIndependentSchoolsInTheCityOfWestminster,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Conservatory108287436,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatEducationalInstitutionsEstablishedInThe15thCentury,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatChurchesInTheCityOfWestminster,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatBuildingsAndStructuresInLondon,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatPreparatorySchoolsInLondon,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatIndependentSchoolsInTheCityOfWestminster,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://umbel.org/umbel/rc/EducationalOrganization,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/PreparatorySchool108409969,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Palace103878066,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatBuildingsAndStructuresInLondon,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatChurchesInTheCityOfWestminster,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatMemberSchoolsOfTheIndependentAssociationOfPreparatorySchools,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatSchoolsWithCombinedCadetForces,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Conservatory108287436,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Jurisdiction108590369,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Diocese108550966,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/Diocese,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Cathedral102984061,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/Building,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/Building,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://www.wikidata.org/entity/Q41176,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://www.wikidata.org/entity/Q41176,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatAnglicanCathedrals,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatMemberSchoolsOfTheIndependentAssociationOfPreparatorySchools,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/ClericalAdministrativeRegion,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/ArchitecturalStructure,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/ArchitecturalStructure,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/BoardingSchool108411701,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/WikicatAnglicanCathedrals,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/Diocese,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Jurisdiction108590369,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/PrivateSchool108411170,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Diocese108550966,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/PrivateSchool108411170,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/Cathedral102984061,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/ClericalAdministrativeRegion,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://www.wikidata.org/entity/Q1370598,DBpedia in French
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/class/yago/BoardingSchool108411701,DBpedia
+http://education.data.gov.uk/def/school/IndependentSchoolType_Music,education.data.gov.uk,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia in French
+http://greek-lod.math.auth.gr/fire-brigade/resource/subdivisions,Hellenic Fire Brigade,http://linkedgeodata.org/ontology/FireStation,LinkLion - A Link Repository for the Web of Data
+http://greek-lod.math.auth.gr/fire-brigade/resource/subdivisions,Hellenic Fire Brigade,http://linkedgeodata.org/ontology/FireStation,LinkedGeoData
+http://linkedgeodata.org/ontology/ChurchHall,LinkedGeoData,http://linkedgeodata.org/ontology/ChurchHall,LinkLion - A Link Repository for the Web of Data
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://www.w3.org/2004/02/skos/core#Concept,Isidore
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatWorldHeritageSitesInItaly,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatRomanTownsAndCities,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://schema.org/AdministrativeArea,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,Serendipity
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,DBpedia in Spanish
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatPortCities,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/State108654360,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/PopulatedPlace,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/PopulatedPlace,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,Serendipity
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/AdministrativeRegion,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,Universidad Técnica Particular de Loja - Linked Open Data
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatCitiesAndTownsInItaly,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/PortCitiesAndTownsOfTheAdriaticSea,DBpedia in Greek
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatPortCities,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://umbel.org/umbel/rc/Village,DBpedia in Greek
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatCitiesAndTownsInItaly,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://linkedgeodata.org/ontology/City,LinkLion - A Link Repository for the Web of Data
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/City,DBpedia in Greek
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://linkedgeodata.org/ontology/Town,LinkLion - A Link Repository for the Web of Data
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/State108654360,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/Region,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/City,DBpedia in Greek
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://linkedgeodata.org/ontology/Suburb,LinkLion - A Link Repository for the Web of Data
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,Open Data of Ecuador
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,Open Data of Ecuador
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatRomanTownsAndCities,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/AdministrativeRegion,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/class/yago/WikicatWorldHeritageSitesInItaly,DBpedia
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/Region,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://schema.org/AdministrativeArea,DBpedia in Basque
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,DBpedia in Spanish
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://umbel.org/umbel/rc/Village,DBpedia in Greek
+http://linkedgeodata.org/ontology/City,Shoah victims’ names,http://dbpedia.org/ontology/WorldHeritageSite,Universidad Técnica Particular de Loja - Linked Open Data
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://dbpedia.org/class/yago/Fjord109281104,DBpedia
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://linkedgeodata.org/ontology/NaturalThing,LinkedGeoData
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://dbpedia.org/class/yago/Inlet109313716,DBpedia
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://adl-gazetteer.geog.ucsb.edu/ontology/bar_physiographic_,Alexandria Digital Library (ADL) Gazetteer
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://adl-gazetteer.geog.ucsb.edu/ontology/fjord,Alexandria Digital Library (ADL) Gazetteer
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://adl-gazetteer.geog.ucsb.edu/ontology/physiographic_feature,Alexandria Digital Library (ADL) Gazetteer
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://dbpedia.org/class/yago/Inlet109313716,DBpedia
+http://linkedgeodata.org/ontology/Fjord,LinkLion - A Link Repository for the Web of Data,http://dbpedia.org/class/yago/Fjord109281104,DBpedia
+http://linkedgeodata.org/ontology/MineralSpring,LinkLion - A Link Repository for the Web of Data,http://linkedgeodata.org/ontology/WaterwayThing,LinkedGeoData
+http://linkedgeodata.org/ontology/MineralSpring,LinkLion - A Link Repository for the Web of Data,http://linkedgeodata.org/ontology/Spring,LinkedGeoData
+http://linkedgeodata.org/ontology/Newsstand,LinkLion - A Link Repository for the Web of Data,http://linkedgeodata.org/ontology/Newsagent,LinkedGeoData
+http://linkedgeodata.org/ontology/TricycleStation,LinkedGeoData,http://linkedgeodata.org/ontology/BicycleParking,LinkLion - A Link Repository for the Web of Data
+http://linkedgeodata.org/ontology/TricycleStation,LinkedGeoData,http://linkedgeodata.org/ontology/BusStation,LinkLion - A Link Repository for the Web of Data
+http://linkedgeodata.org/ontology/TricycleStation,LinkedGeoData,http://linkedgeodata.org/ontology/TricycleStation,LinkLion - A Link Repository for the Web of Data
+http://linkedgeodata.org/ontology/TricycleStation,LinkedGeoData,http://linkedgeodata.org/ontology/MotorcycleParking,LinkLion - A Link Repository for the Web of Data
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/class/yago/Library103660909,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://www.wikidata.org/entity/Q7075,DBpedia Wikidata
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/class/yago/Room104105893,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/class/yago/WikicatDepositLibraries,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://linkedgeodata.org/ontology/PublicBuilding,LinkedGeoData
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://schema.org/Library,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/class/yago/Area102735688,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Site,Events calendar for the University (University of Oxford)
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing,Events calendar for the University (University of Oxford)
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://linkedgeodata.org/ontology/College,LinkedGeoData
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Building,Events calendar for the University (University of Oxford)
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://schema.org/Library,DBpedia Wikidata
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://schema.org/Library,DBpedia Wikidata
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/class/yago/Area102735688,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://www.wikidata.org/entity/Q7075,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/ontology/Library,DBpedia Wikidata
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/class/yago/Room104105893,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/class/yago/WikicatDepositLibraries,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/ontology/Library,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/ontology/Library,DBpedia Wikidata
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://www.wikidata.org/entity/Q7075,DBpedia Wikidata
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://schema.org/Library,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://www.wikidata.org/entity/Q7075,DBpedia
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,Events calendar for the University (University of Oxford)
+http://ns.ox.ac.uk/namespace/oxpoints/2009/02/owl#Room,OxPoints (University of Oxford),http://dbpedia.org/ontology/Library,DBpedia
+http://opendata.caceres.es/def/ontomunicipio#ActividadDeportiva,Perfil del Contratante Cáceres,http://schema.org/EducationalOrganization,houses of culture Caceres
+http://opendata.caceres.es/def/ontomunicipio#ActividadDeportiva,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#Colegio,houses of culture Caceres
+http://opendata.caceres.es/def/ontomunicipio#ActividadDeportiva,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#AsociacionVecinos,houses of culture Caceres
+http://opendata.caceres.es/def/ontomunicipio#ActividadDeportiva,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#EspacioDeportivo,houses of culture Caceres
+http://opendata.caceres.es/def/ontomunicipio#ActividadDeportiva,Perfil del Contratante Cáceres,http://www.w3.org/ns/prov#Activity,houses of culture Caceres
+http://opendata.caceres.es/def/ontomunicipio#ActividadDeportiva,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#ActividadDeportiva,houses of culture Caceres
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/SocialEvent107288639,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/WikicatRockFestivalsInTheUnitedStates,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/WikicatRockFestivalsInTheUnitedStates,DBpedia
+http://schema.org/Festival,Serendipity,http://linkedgeodata.org/ontology/Theatre,LinkLion - A Link Repository for the Web of Data
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/WikicatHeavyMetalFestivals,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/WikicatHeavyMetalFestivals,DBpedia
+http://schema.org/Festival,Serendipity,http://linkedgeodata.org/ontology/Theatre,LinkedGeoData
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://www.w3.org/2002/07/owl#Thing,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://www.wikidata.org/entity/Q868557,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://umbel.org/umbel/rc/Festival,DBpedia
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://schema.org/Event,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://schema.org/Event,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Show106619065,DBpedia
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Attraction106615561,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/SocialEvent107288639,DBpedia
+http://schema.org/Festival,Serendipity,http://schema.org/Event,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://schema.org/Event,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://umbel.org/umbel/rc/Event,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Festival115162388,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://umbel.org/umbel/rc/Event,DBpedia
+http://schema.org/Festival,Serendipity,http://www.wikidata.org/entity/Q1656682,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://schema.org/Event,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://www.wikidata.org/entity/Q1656682,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://www.wikidata.org/entity/Q868557,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://www.w3.org/2002/07/owl#Thing,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/TimePeriod115113229,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/FundamentalQuantity113575869,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Measure100033615,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Festival115162388,DBpedia
+http://schema.org/Festival,Serendipity,http://umbel.org/umbel/rc/Festival,DBpedia
+http://schema.org/Festival,Serendipity,http://www.w3.org/2002/07/owl#Thing,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Measure100033615,DBpedia
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://schema.org/Event,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Event,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/FundamentalQuantity113575869,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://www.w3.org/2002/07/owl#Thing,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://www.w3.org/2002/07/owl#Thing,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://schema.org/Event,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://www.w3.org/2002/07/owl#Thing,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,DBpedia Wikidata
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/TimePeriod115113229,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Attraction106615561,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/class/yago/Show106619065,DBpedia
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://schema.org/Event,Open Data of Ecuador
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/SocietalEvent,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/MusicFestival,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Festival,Serendipity,http://dbpedia.org/ontology/Event,DBpedia in Spanish
+http://schema.org/Festival,Serendipity,http://schema.org/Festival,Universidad Técnica Particular de Loja - Linked Open Data
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/University,LinkedGeoData
+http://schema.org/Library,DBpedia in Japanese,http://www.wikidata.org/entity/Q33506,DBpedia in French
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/PublicBuilding,LinkLion - A Link Repository for the Web of Data
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/Library,LinkedGeoData
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/PublicBuilding,LinkedGeoData
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/ontology/Library,DBpedia Wikidata
+http://schema.org/Library,DBpedia in Japanese,http://www.wikidata.org/entity/Q7075,DBpedia Wikidata
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/ontology/Museum,DBpedia in French
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/Area102735688,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/Museum,LinkedGeoData
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/ontology/Library,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://www.wikidata.org/entity/Q7075,DBpedia Wikidata
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/WikicatNationalLibraries,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://schema.org/Library,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/Museum,LinkLion - A Link Repository for the Web of Data
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/ontology/Museum,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/ontology/Library,DBpedia Wikidata
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/Area102735688,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://schema.org/Library,DBpedia Wikidata
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/Room104105893,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/College,LinkedGeoData
+http://schema.org/Library,DBpedia in Japanese,http://www.w3.org/2004/02/skos/core#Concept,DBpedia in French
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/College,LinkLion - A Link Repository for the Web of Data
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/WikicatNationalLibraries,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/Room104105893,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://schema.org/Library,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/University,LinkLion - A Link Repository for the Web of Data
+http://schema.org/Library,DBpedia in Japanese,http://linkedgeodata.org/ontology/Library,LinkLion - A Link Repository for the Web of Data
+http://schema.org/Library,DBpedia in Japanese,http://www.wikidata.org/entity/Q7075,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/WikicatDepositLibraries,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/ontology/Library,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/ontology/Museum,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://schema.org/Library,DBpedia Wikidata
+http://schema.org/Library,DBpedia in Japanese,http://dbpedia.org/class/yago/Library103660909,DBpedia
+http://schema.org/Library,DBpedia in Japanese,http://www.wikidata.org/entity/Q7075,DBpedia
+http://schema.org/PlaceOfWorship,Perfil del Contratante Cáceres,http://schema.org/TouristAttraction,houses of culture Caceres
+http://schema.org/PlaceOfWorship,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#CentroReligioso,houses of culture Caceres
+http://schema.org/PlaceOfWorship,Perfil del Contratante Cáceres,http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing,houses of culture Caceres
+http://schema.org/PlaceOfWorship,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#Monumento,houses of culture Caceres
+http://schema.org/PlaceOfWorship,Perfil del Contratante Cáceres,http://schema.org/PlaceOfWorship,houses of culture Caceres
+http://schema.org/PlaceOfWorship,Perfil del Contratante Cáceres,http://phenomenontology.linkeddata.es/ontology/Santuario,GeoLinkedData
+http://schema.org/PlaceOfWorship,Perfil del Contratante Cáceres,http://phenomenontology.linkeddata.es/ontology/Iglesia,GeoLinkedData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#AutobusUrbano,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/Monument,LinkedGeoData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://schema.org/PlaceOfWorship,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/HistoricBuilding,LinkedGeoData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/ArchaeologicalSite,LinkLion - A Link Repository for the Web of Data
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#CentroReligioso,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/Castle,LinkLion - A Link Repository for the Web of Data
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/Entrance,LinkedGeoData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#PuntoInformacion,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://schema.org/Park,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#Monumento,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://opendata.caceres.es/def/ontomunicipio#Parque,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://phenomenontology.linkeddata.es/ontology/Iglesia,GeoLinkedData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/Museum,LinkLion - A Link Repository for the Web of Data
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/UnclassifiedBuilding,LinkedGeoData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/Monument,LinkLion - A Link Repository for the Web of Data
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/Museum,LinkedGeoData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing,houses of culture Caceres
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://linkedgeodata.org/ontology/Castle,LinkedGeoData
+http://schema.org/TouristAttraction,Perfil del Contratante Cáceres,http://schema.org/TouristAttraction,houses of culture Caceres
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/ontology/Ship,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/class/yago/Port108633957,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/ontology/RailwayLine,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/class/yago/Port108633957,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/class/yago/GeographicPoint108578706,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://linkedgeodata.org/ontology/Marina,LinkLion - A Link Repository for the Web of Data
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/class/yago/Possession100032613,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/ontology/RailwayLine,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/class/yago/Property113244109,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/ontology/Ship,DBpedia
+http://transport.data.gov.uk/def/naptan/FerryTerminalDockEntrance,transport.data.gov.uk,http://dbpedia.org/class/yago/GeographicPoint108578706,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/Monastery103781244,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q44613,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Monastery,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q160742,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,Serendipity
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/Monastery103781244,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Building,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.ontologydesignpatterns.org/ont/d0.owl#Location,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q41176,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Building,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q41176,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatGreekOrthodoxMonasteries,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,Open Data of Ecuador
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/ReligiousResidence104073948,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q9259,DBpedia in Japanese
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/Residence104079244,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/Residence104079244,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,Open Data of Ecuador
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Monastery,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://linkedgeodata.org/ontology/Museum,LinkLion - A Link Repository for the Web of Data
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,Universidad Técnica Particular de Loja - Linked Open Data
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.ontologydesignpatterns.org/ont/d0.owl#Location,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q160742,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Abbey,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatEasternOrthodoxMonasteries,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q9259,DBpedia in Japanese
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q1370598,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatEasternOrthodoxMonasteries,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Abbey,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q1370598,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ArchitecturalStructure,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q44613,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q44613,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q1370598,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Abbey,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,DBpedia in Spanish
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q1370598,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Monastery,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.ontologydesignpatterns.org/ont/d0.owl#Location,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q44613,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatChristianMonasteriesEstablishedInThe12thCentury,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatChristianMonasteriesEstablishedInThe12thCentury,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,DBpedia in Japanese
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatBenedictineMonasteriesInGermany,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,DBpedia in Japanese
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,DBpedia in Spanish
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatGreekOrthodoxMonasteries,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.ontologydesignpatterns.org/ont/d0.owl#Location,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ArchitecturalStructure,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.geonames.org/ontology#S,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.geonames.org/ontology#S,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.w3.org/2004/02/skos/core#Concept,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.geonames.org/ontology#S,Verrijkt Koninkrijk
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.geonames.org/ontology#Feature,Verrijkt Koninkrijk
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.w3.org/2004/02/skos/core#Concept,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.w3.org/2000/01/rdf-schema#Resource,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.geonames.org/ontology#Feature,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,Universidad Técnica Particular de Loja - Linked Open Data
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Monastery,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q1370598,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.geonames.org/ontology#Feature,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/ReligiousResidence104073948,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://linkedgeodata.org/ontology/Museum,LinkedGeoData
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/Abbey,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/class/yago/WikicatBenedictineMonasteriesInGermany,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q160742,DBpedia in French
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.w3.org/2000/01/rdf-schema#Resource,Verrijkt Koninkrijk
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/ReligiousBuilding,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.w3.org/2000/01/rdf-schema#Resource,Dutch Ships and Sailors
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q1370598,DBpedia
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.wikidata.org/entity/Q160742,DBpedia Wikidata
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://dbpedia.org/ontology/WorldHeritageSite,Serendipity
+http://www.wikidata.org/entity/Q44613,DBpedia in Dutch,http://www.w3.org/2004/02/skos/core#Concept,Verrijkt Koninkrijk
