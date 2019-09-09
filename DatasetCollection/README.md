@@ -11,7 +11,7 @@ b) SELECT SPARQL Queries to each spatial dataset to retrieve the list of classes
 - GeoRSS
 - OrdnanceSurvey
 
-The SPARQL queries for retrieving instances location for classes for each ontology listed in GetClassGeometries.java
+The SPARQL queries for retrieving instances location for classes for each ontology listed in GetClassGeometriesQuery.java
 
 The following files summarize the output of the DatasetCollection step:
 - ListOfParsedDatasets.csv --> A list of all datasets (SPARQL Endpoints) that were discovered. The status column gives additional information such as server error, spatial (use of geo-ontologies), no spatial (no use of geo-ontologies)
