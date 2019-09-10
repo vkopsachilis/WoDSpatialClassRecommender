@@ -1,1 +1,4 @@
-
+- FullGroundTruth.csv contains all classes (classes after filtering) which examined for relatedness with 20 sample classes
+- GroundTruth.csv contains all related classes
+- EvaluationResults.xls contain the Average Precision of ranking lists for all metrics with different experiment settings
+- Interpolated.xls Interpolated Average Pprecision values at varous recall points
